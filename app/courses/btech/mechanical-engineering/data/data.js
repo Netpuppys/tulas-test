@@ -9,7 +9,7 @@ import AnkitJain from "../../../../../public/courses/btech/mechanical-engineerin
 import AnkitResume from "../../../../../public/courses/btech/mechanical-engineering/facultyData/AnkitJainResume.pdf";
 import Sanjay from "../../../../../public/courses/btech/mechanical-engineering/facultyData/Sanjay.webp";
 import SanjayResume from "../../../../../public/courses/btech/mechanical-engineering/facultyData/SanjayResume.pdf";
-import AmitMAURYA from "../../../../../public/courses/btech/mechanical-engineering/facultyData/AmitMAURYA.webp";
+import AmitMAURYA from "../../../../../public/courses/btech/mechanical-engineering/facultyData/AmitMaurya.webp";
 import AmitResume from "../../../../../public/courses/btech/mechanical-engineering/facultyData/AmitResume.pdf";
 import AnuragBahuguna from "../../../../../public/courses/btech/mechanical-engineering/facultyData/AnuragBahuguna.webp";
 import AnuragResume from "../../../../../public/courses/btech/mechanical-engineering/facultyData/AnuragResume.pdf";

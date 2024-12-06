@@ -3,7 +3,7 @@ import DepartmentalVission from "../../../public/courses/bjmc/departmentalVision
 import DepartmentalMission from "../../../public/courses/bjmc/departmentalMission.png";
 import AnkitJain from "../../../public/courses/btech/mechanical-engineering/facultyData/AnkitJain.webp";
 import AnkitResume from "../../../public/courses/btech/mechanical-engineering/facultyData/AnkitJainResume.pdf";
-import AmitMAURYA from "../../../public/courses/btech/mechanical-engineering/facultyData/AmitMAURYA.webp";
+import AmitMAURYA from "../../../public/courses/btech/mechanical-engineering/facultyData/AmitMaurya.webp";
 import AmitResume from "../../../public/courses/btech/mechanical-engineering/facultyData/AmitResume.pdf";
 import AnuragBahuguna from "../../../public/courses/btech/mechanical-engineering/facultyData/AnuragBahuguna.webp";
 import AnuragResume from "../../../public/courses/btech/mechanical-engineering/facultyData/AnuragResume.pdf";
