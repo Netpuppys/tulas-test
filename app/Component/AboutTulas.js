@@ -233,7 +233,7 @@ function AboutTulas() {
       id="2"
       className="bg-transparent flex flex-col-reverse md:flex-row  md:gap-0 relative justify-between px-4 md:px-8 py-8 lg:px-24 md:py-10 items-center"
     >
-      {/* {isOtpSent && (
+      {isOtpSent && (
         <div className="fixed w-screen h-screen bg-black bg-opacity-50 top-0 left-0 z-50 flex items-center justify-center flex-col">
           <div
             className="w-full h-screen z-10 absolute"
@@ -302,7 +302,7 @@ function AboutTulas() {
             </button>
           </div>
         </div>
-      )} */}
+      )}
       <div className="w-full px-6 md:px-0 md:w-[50%] py-10 md:py-20">
         <h3 className="text-[#fff] text-justify font-[TTChocolates] font-semibold text-[clamp(15px,4.5vw,30px)] md:text-[clamp(18px,1.3vw,45px)] ml-0 mr-auto">
           {aboutTulas}
@@ -368,7 +368,7 @@ function AboutTulas() {
                   color: "black", // Flag icon color
                 }}
               />
-              {/* <button
+              <button
                 type="button"
                 disabled={!isPhoneValid && verified}
                 onClick={sendOtp}
@@ -379,7 +379,7 @@ function AboutTulas() {
                 }`}
               >
                 {verified ? "Verified" : "Send OTP"}
-              </button> */}
+              </button>
             </div>
 
             <div className="flex flex-col md:flex-row gap-3 mb-3">
@@ -467,8 +467,8 @@ function AboutTulas() {
 
             <button
               type="submit"
-              // disabled={!verified}
-              // title={verified ? "" : "Please Verify Mobile Number"}
+              disabled={!verified}
+              title={verified ? "" : "Please Verify Mobile Number"}
               className={`w-full bg-white text-[#007A83] cursor-pointer py-3 rounded-[3px] disabled:opacity-60 disabled:cursor-not-allowed font-semibold mb-10`}
             >
               Submit
